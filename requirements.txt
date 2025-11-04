@@ -3,7 +3,7 @@ pillow==10.4.0
 pdfplumber==0.11.4
 pytesseract==0.3.13
 easyocr==1.7.2
-
+gunicorn==23.0.0
 # Data handling
 pandas==2.2.3
 openpyxl==3.1.5
@@ -17,3 +17,4 @@ langchain-groq==0.1.4
 # Utilities
 requests==2.32.3
 opencv-python-headless==4.10.0.84
+
