@@ -1,10 +1,10 @@
 Flask==3.0.3
 flask-cors==6.0.1
 pdfplumber==0.11.4
-Pillow==10.3.0
+Pillow==11.0.0
 pytesseract==0.3.13
 easyocr==1.7.2
-opencv-python-headless==4.8.1.78
+opencv-python-headless==4.10.0.84
 pandas==2.2.2
 numpy==1.26.4
 regex==2024.9.11
