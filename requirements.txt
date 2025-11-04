@@ -7,13 +7,11 @@ openpyxl==3.1.5
 regex==2024.9.11
 easyocr==1.7.2
 
-# LangChain + Groq integration
-langchain==0.3.7
-langchain-core==0.3.15
-langchain-groq==0.1.6
+# LangChain + Groq (compatible versions)
+langchain==0.2.12
+langchain-core==0.2.23
+langchain-groq==0.1.4
 
 # Utilities
 requests==2.32.3
-
-# Compatible OpenCV for Python 3.13
 opencv-python-headless==4.10.0.84
