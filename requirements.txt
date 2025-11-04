@@ -5,7 +5,7 @@ Pillow==11.0.0
 pytesseract==0.3.13
 easyocr==1.7.2
 opencv-python-headless==4.10.0.84
-pandas==2.2.2
+pandas==2.2.3
 numpy==1.26.4
 regex==2024.9.11
 requests==2.32.3
